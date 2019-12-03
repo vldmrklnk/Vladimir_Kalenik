@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b574ca6-fd28-4741-9f77-bb0f5a4f4660" name="Default Changelist" comment="home1">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/lesson2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/links/catalog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/links/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson2/links/test1/test2/test/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/home1/home1.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/home1/home1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/home1.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/home1.1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -51,8 +54,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575224226287</updated>
-      <workItem from="1575224238359" duration="2328000" />
+      <workItem from="1575224238359" duration="3165000" />
+      <workItem from="1575389988885" duration="6589000" />
     </task>
+    <task id="LOCAL-00001" summary="home1">
+      <created>1575227088375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575227088375</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,13 +75,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="home1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1575227085398">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1575399702104">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575227085398" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1575227123076">
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575399702104" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1575227890172">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575227123076" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575227890172" />
   </component>
 </project>
