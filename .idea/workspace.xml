@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b574ca6-fd28-4741-9f77-bb0f5a4f4660" name="Default Changelist" comment="home1">
+    <list default="true" id="2b574ca6-fd28-4741-9f77-bb0f5a4f4660" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/home/additional_task/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/home1.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/home1.1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1575224226287</updated>
       <workItem from="1575224238359" duration="3165000" />
-      <workItem from="1575389988885" duration="6589000" />
+      <workItem from="1575389988885" duration="6833000" />
+      <workItem from="1575470306419" duration="11108000" />
     </task>
     <task id="LOCAL-00001" summary="home1">
       <created>1575227088375</created>
@@ -64,7 +65,28 @@
       <option name="project" value="LOCAL" />
       <updated>1575227088375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Сделал пайтон часть 1">
+      <created>1575399730620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575399730621</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Сделал пайтон часть 2">
+      <created>1575472129996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575472129996</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Сделал пайтон часть 2">
+      <created>1575474577822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575474577822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,16 +94,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home1" />
-    <option name="LAST_COMMIT_MESSAGE" value="home1" />
+    <MESSAGE value="Сделал пайтон часть 1" />
+    <MESSAGE value="Сделал пайтон часть 2" />
+    <MESSAGE value="Сделал пайтон часть 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал пайтон часть 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1575399702104">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1575474600324">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575399702104" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1575227890172">
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575474600324" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1575474606469">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575227890172" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575474606469" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1575477063039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1575477063039" />
   </component>
 </project>
