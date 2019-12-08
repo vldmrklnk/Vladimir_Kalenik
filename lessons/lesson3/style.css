@@ -1,0 +1,19 @@
+@import "core.css";
+html{
+    font-size: 54px;
+}
+body{
+    font-size: 18px;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+p{
+    color: blue;
+}
+.test{
+    background-color: aqua;
+    color: green;
+}
+.test1 {
+    font-style: italic;
+}
