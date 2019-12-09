@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table width="700px" border="1">
+    <tr>
+        <td>
+            <h3>Простая форма поиска с вариантами:</h3>
+            <fieldset><legend>Строка поиска</legend>
+            <form action="http://fe.it-academy.by/TestForm.php" method="get">
+            <input type="text" name="search" maxlength="10">
+            <input type="submit" value="Искать"><br>
+            <lable>на сайте
+            <input type="radio" name="where" value="на сайте">
+        </lable>
+        <lable>в google
+        <input type="radio" name="where" value="в google">
+        </lable><br>
+        <span><i>Длина запроса не более 10 символов</i></span>
+    </form>
+    </fieldset>
+        </td>
+        <td>
+            <h3>Простая форма поиска с вариантами:</h3>
+            <fieldset><legend>Строка поиска</legend>
+                <form action="http://fe.it-academy.by/TestForm.php" method="post">
+                    <span><input autofocus type="text" name="ssearch">*
+                    <input type="submit" value="Искать"></span><br>
+                    <lable>на сайте
+                        <input type="radio" name="where" value="на сайте">
+                    </lable>
+                    <lable>в google
+                        <input type="radio" name="where" value="в google">
+                    </lable><br>
+                    <span><i>* - обязательное поле</i></span>
+                </form>
+            </fieldset>
+        </td>
+    </fieldset>
+    </tr>
+    <tr>
+        <td>
+            <h3>Простая форма авторизации:</h3>
+            <fieldset><legend>Авторизуйтесь</legend>
+                <form action="http://fe.it-academy.by/TestForm.php" method="get">
+                    <span><input type="text" name="login">* Логин</span><br>
+                    <span><input type="password" name="password">* Пароль</span><br>
+                    <lable>
+                        <input type="checkbox" name="be_in_system">
+                        оставаться в системе
+                    </lable><br>
+                    <input type="submit" value="Войти"><br>
+                    <span><i>* - обязательное поле</i></span>
+                </form>
+            </fieldset>
+        </td>
+        <td>
+            <h3>Опрос(голосование):</h3>
+            <fieldset><legend>Как вам?</legend>
+                <form action="http://fe.it-academy.by/TestForm.php" method="post">
+                    <input type="hidden" name="date_vote" value="2013.12.31">
+                    <lable>
+                        <input type="radio" name="vote" value="ничего"> ничего
+                    </lable><br>
+                    <lable>
+                        <input type="radio" name="vote" value="неплохо"> неплохо
+                    </lable><br>
+                    <lable>
+                        <input type="radio" name="vote" value="хорошо"> хорошо
+                    </lable><br>
+                    <lable>
+                        <input type="radio" name="vote" value="супер"> супер
+                    </lable><br>
+                    <input type="submit" value="Отправить"></span><br>
+                </form>
+            </fieldset>
+        </td>
+        </fieldset>
+
+</table>
+
+</body>
+</html>
