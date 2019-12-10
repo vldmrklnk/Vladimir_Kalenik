@@ -78,8 +78,75 @@
                 </form>
             </fieldset>
         </td>
-        </fieldset>
-
+        </tr>
+    <tr>
+        <td>
+            <h3>Отзыв:</h3>
+            <fieldset><legend>Оставьте Ваш отзыв</legend>
+                <form action="http://fe.it-academy.by/TestForm.php" method="post">
+                    <span><input type="text" name="login">* Имя</span><br>
+                    <span><input type="email" name="email">* e-mail</span><br>
+                    <textarea name="textarea" placeholder="Форма отправки"></textarea>
+                    <input type="submit" value="Отправить"><br>
+                    <span><i>* - обязательное поле</i></span>
+                </form>
+            </fieldset>
+        </td>
+        <td>
+            <h3>Выпадающий и мульти списки:</h3>
+            <fieldset><legend>Города РБ</legend>
+                <form action="http://fe.it-academy.by/TestForm.php" method="get">
+                    <select name="onelist">
+                    <option name="l1">Брест</option>
+                    <option name="l2">Витебск</option>
+                    <option name="l3">Гомель</option>
+                    <option name="l4">Гродно</option>
+                    <option name="l5">Могилёв</option>
+                    <option name="l6">Минск</option>
+                </select>
+                    <select name="multilist" multiple>
+                        <optgroup label="Города РБ">
+                        <option name="m1">Брест</option>
+                        <option name="m2">Витебск</option>
+                        <option name="m3">Гомель</option>
+                        <option name="m4">Гродно</option>
+                        <option name="m5">Могилёв</option>
+                        <option name="m6">Минск</option>
+                        </optgroup>
+                        <optgroup label="Города России">
+                            <option name="m7">Москва</option>
+                            <option name="m8">Рязань</option>
+                            <option name="m9">Магадан</option>
+                        </optgroup>
+                    </select>
+                    <input type="submit" value="Ок"></span><br>
+                </form>
+            </fieldset>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Загрузка файла на сервер:</h3>
+            <fieldset><legend>Upload</legend>
+                <form action="http://fe.it-academy.by/TestForm.php" method="post" enctype="multipart/form-data">
+                    <span>Файл:<br> <input type="file" name="file"></span><br>
+                    <span>Срок хранения(года):<br><input type="text" name="years"></span>
+                    <input type="submit" value="Загрузить"><br>
+                </form>
+            </fieldset>
+        </td>
+        <td>
+            <h3>Валидация данных HTML5:</h3>
+            <fieldset><legend>Строка поиска</legend>
+                <form action="http://fe.it-academy.by/TestForm.php" method="get">
+                    <input type="text" name="search" placeholder="Только русские буквы">
+                    <div><i>Телефонный номер в формате<br> +ХХХ-ХХ-ХХХХХХХ</i></div><br>
+                    <input type="tel" name="tel" pattern="[+][0-9]{3}-[0-9]{2}-[0-9]{7}" placeholder="+ХХХ-ХХ-ХХХХХХХ"></span><br>
+                    <input type="submit" value="Проверить"><br>
+                </form>
+            </fieldset>
+        </td>
+    </tr>
 </table>
 
 </body>
