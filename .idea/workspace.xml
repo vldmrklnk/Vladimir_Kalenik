@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b574ca6-fd28-4741-9f77-bb0f5a4f4660" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/home/home2/index.html" afterDir="false" />
+    <list default="true" id="2b574ca6-fd28-4741-9f77-bb0f5a4f4660" name="Default Changelist" comment="начал домашку #3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/home5/additional_task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/home5/additional_task/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -30,11 +31,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/home/home4" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\programming\SC1-69-19\home\home1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\programming\SC1-69-19\home\home4" />
+      <recent name="E:\programming\SC1-69-19\home\home3" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -63,7 +76,13 @@
       <workItem from="1575389988885" duration="6833000" />
       <workItem from="1575470306419" duration="11164000" />
       <workItem from="1575484680479" duration="1690000" />
-      <workItem from="1575557447843" duration="2508000" />
+      <workItem from="1575557447843" duration="9963000" />
+      <workItem from="1575644563423" duration="10007000" />
+      <workItem from="1575710907717" duration="7857000" />
+      <workItem from="1575809998802" duration="9257000" />
+      <workItem from="1575905534727" duration="7217000" />
+      <workItem from="1575998446334" duration="7393000" />
+      <workItem from="1576072723484" duration="9409000" />
     </task>
     <task id="LOCAL-00001" summary="home1">
       <created>1575227088375</created>
@@ -114,7 +133,91 @@
       <option name="project" value="LOCAL" />
       <updated>1575557601480</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Домашняя работа №2">
+      <created>1575562581647</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575562581647</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Домашняя работа №2">
+      <created>1575562724108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575562724108</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Домашняя работа №2+доп.задание">
+      <created>1575566890958</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575566890958</updated>
+    </task>
+    <task id="LOCAL-00011" summary="home3">
+      <created>1575571060041</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575571060041</updated>
+    </task>
+    <task id="LOCAL-00012" summary="начал домашку #3">
+      <created>1575574627027</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575574627027</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Доделал домашку №3">
+      <created>1575651286638</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575651286638</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Сделал домашку №3, но без допов.">
+      <created>1575659397179</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575659397179</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Сделал дополнительное задание по html из раздела № 3">
+      <created>1575819125956</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575819125956</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Доделал доп.задание по html в разделе №3">
+      <created>1575819359871</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575819359871</updated>
+    </task>
+    <task id="LOCAL-00017" summary="начал домашку #5">
+      <created>1575918048100</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575918048100</updated>
+    </task>
+    <task id="LOCAL-00018" summary="сделал домашку по формам, но пока без доп.задания">
+      <created>1576006090372</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1576006090372</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Домашняя работа про формы">
+      <created>1576074257125</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1576074257125</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,20 +231,44 @@
     <MESSAGE value="Начал доп.задание" />
     <MESSAGE value="Выполнил доп.задание" />
     <MESSAGE value="Перенёс и добавил папки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Перенёс и добавил папки" />
+    <MESSAGE value="Домашняя работа №2" />
+    <MESSAGE value="Домашняя работа №2+доп.задание" />
+    <MESSAGE value="home3" />
+    <MESSAGE value="начал домашку #3" />
+    <MESSAGE value="Доделал домашку №2" />
+    <MESSAGE value="Доделал домашку №3" />
+    <MESSAGE value="Сделал домашку №3, но без допов." />
+    <MESSAGE value="Сделал дополнительное задание по html из раздела № 3" />
+    <MESSAGE value="Доделал доп.задание по html в разделе №3" />
+    <MESSAGE value="начал домашку #5" />
+    <MESSAGE value="сделал домашку по формам, но пока без доп.задания" />
+    <MESSAGE value="Домашняя работа про формы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа про формы" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1575562580451">
+    <state x="282" y="113" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1575713399100">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575562580451" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1575562584010">
+    <state x="282" y="113" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680@0.0.1280.680" timestamp="1575713399100" />
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1576074255081">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575562584010" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1575561419360">
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1576074255081" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1575998907206">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1575561419360" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575998907206" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1576074264016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1576074264016" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1575913658280">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1575913658280" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576005900045">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576005900045" />
   </component>
 </project>
