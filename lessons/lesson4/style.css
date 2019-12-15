@@ -1,0 +1,6 @@
+body{height: 10000px}
+div{background-color: aquamarine;
+    background-image: url("img/BMW_3-Series_2019.jpg.740x555_q85_box-38,115,1102,913_crop_detail_upscale.jpg");
+    background-repeat: no-repeat;
+height: 200px}
+h1{background-color: blue}
