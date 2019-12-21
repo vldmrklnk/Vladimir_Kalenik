@@ -1,0 +1,23 @@
+*{
+    background-color: darkgray;
+    margin-bottom: 0.2em;
+}
+.menu{
+    float: left;
+    background-color: yellow;
+    width: 15em;
+
+}
+.clear{
+    float: left;
+    height: 1000px;
+}
+.text{
+background-color: brown;
+}
+img{
+    float: right;
+}
+.footer{
+    background-color: blueviolet;
+}
