@@ -7,13 +7,17 @@
     background-color: yellow;
     width: 15em;
 }
-
+.top{
+    padding: 10px;
+    background-color: brown;
+}
 .text{
-
 background-color: brown;
 }
 img{
     float: right;
+    width: 150px;
+    height: 150px;
 }
 .footer{
     background-color: blueviolet;
